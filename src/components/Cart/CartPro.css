@@ -1,0 +1,16 @@
+.cartShow-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+}
+
+.cartShow-container div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cartShow-container img{
+    width: 100px;
+}
